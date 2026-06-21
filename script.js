@@ -17,7 +17,7 @@ const COUNT = 120;
 for (let i = 0; i < COUNT; i++) {
   const span = document.createElement("span");
   span.className = "love";
-  span.textContent = "I love you";
+  span.textContent = "I'm sorry didi";
   ui.appendChild(span);
   words.push(span);
 }
