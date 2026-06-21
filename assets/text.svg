@@ -1,0 +1,12 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1200 300"
+>
+  <path
+    id="textPath"
+    d="M34.8,182.4 C58.1,170.2 73.4,154.9 ... Z"
+    fill="none"
+    stroke="white"
+    stroke-width="2"
+  />
+</svg>
