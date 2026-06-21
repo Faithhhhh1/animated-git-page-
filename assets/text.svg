@@ -1,14 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 400">
-  <rect width="100%" height="100%" fill="black"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 300"
+     width="1200"
+     height="300">
+
+  <rect width="1200" height="300" fill="black"/>
 
   <text
     x="60"
-    y="250"
-    font-size="170"
+    y="190"
+    font-size="120"
     font-family="cursive"
     fill="none"
     stroke="yellow"
-    stroke-width="3">
+    stroke-width="2">
     I'm sorry Didi
   </text>
+
 </svg>
