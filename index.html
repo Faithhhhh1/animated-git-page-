@@ -8,25 +8,13 @@
 </head>
 <body>
 
-  <!-- Canvas where the hearts are drawn -->
+  <!-- Canvas where glowing hearts are drawn -->
   <canvas id="canvas"></canvas>
 
-  <!-- SVG path used by the animation -->
-  <svg
-    id="svg"
-    viewBox="0 0 1200 300"
-    xmlns="http://www.w3.org/2000/svg"
-  >
-    <!-- TEST PATH -->
-    <path
-      id="textPath"
-      d="M100 150 C300 20 500 280 700 150"
-      fill="none"
-      stroke="white"
-      stroke-width="4"
-    />
-  </svg>
+  <!-- Hidden container for the SVG -->
+  <div id="svg-container" style="display:none;"></div>
 
   <script src="script.js"></script>
+
 </body>
 </html>
